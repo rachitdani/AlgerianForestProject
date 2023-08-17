@@ -17,11 +17,11 @@
    ```
 ## Then install the requirments.txt file using command
   ```javascript
-  pip install -r requirements.txt
+  pip install -r AlgerianForestProject/requirements.txt
   ```
 ## Then run the application.py file 
  ```javascript
-  application.py
+  AlgerianForestProject/application.py
   ```
 
 # Approach Used for Development of Project
