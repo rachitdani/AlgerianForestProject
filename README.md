@@ -6,8 +6,8 @@
 
 ## Contents of the project
 - models folder contains the pickle files of Standard Scaler and Ridge CV model
-- notebooks folder contains the uncleaned dataset and the Jupyter note file of the EDA & Regression performed
-- templates file contains the home.html file which is used for rendering the template in our app
+- notebooks folder contains the uncleaned dataset and the Jupyter notebook file of the EDA & Regression performed
+- templates file contains the home.html file which is used for rendering the template in our flask app
 - application.py is the main file which uses flask and render template for using the home.html file
 - requirements.txt contains the requirements to be dowloaded before running the application
 
